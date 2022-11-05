@@ -21,7 +21,7 @@ file1_name.my_function()
 ```
 
 ## Author
-My_name
+[Quelvin Carvalho](https://www.linkedin.com/in/quelvin-carvalho-5b9b40102/)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
